@@ -1,0 +1,10 @@
+* html-entities
+
+Html-entities lets you encode and decode entities in HTML.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/BnMcGn/html-entities.git   |
+| commit  | 4af0180  |
+| systems | html-entities |
+|---------+-------------------------------------------|
+
